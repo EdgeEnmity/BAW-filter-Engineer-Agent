@@ -7,8 +7,9 @@ Bridge the gap between PDK development, layout automation, and AI-assisted
 filter design for fabless MEMS product development.
 
 ## Current Status (WIP)
-- [x] FBAR PCell geometry engine (L10/L20/L50 validated)
+- [x] FBAR PCell geometry engine 
 - [x] DoE table generator
+- [x] PDK packaging
 - [ ] EM co-simulation interface
 - [ ] AI optimization loop
 
